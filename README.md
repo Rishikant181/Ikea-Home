@@ -1,2 +1,2 @@
-# ikea-clone
-A sample Ikea clone
+# Ikea-Home
+A clone of the Ikea website's home page
